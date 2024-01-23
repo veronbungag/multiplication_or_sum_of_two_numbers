@@ -13,3 +13,5 @@ def multiplication_or_sum(first_number, second_number):
 result = multiplication_or_sum(26, 31)
 print("The result is", result)
 #second condition
+result = multiplication_or_sum(35, 35)
+print("The result is", result)

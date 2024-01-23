@@ -4,4 +4,8 @@ def multiplication_or_sum(first_number, second_number):
  product = first_number * second_number
  sum = first_number + second_number
 #check if product is less than 1000
+ if product <= 1000:
+    return product
+ else:
+    return sum
 

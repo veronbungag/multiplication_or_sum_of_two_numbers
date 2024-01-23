@@ -8,4 +8,6 @@ def multiplication_or_sum(first_number, second_number):
     return product
  else:
     return sum
-
+#conditions
+#first condition
+#second condition
